@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, i'm Luiz Reina and i'm focused on impacting peoples's life in some positive way!
+
+- 🌱 I’m currently learning JS Vanilla, HTML, CSS and some other things to become a Web Developer;
+- 🔭 I'm also studying Kotlin and Solidity because i'm curious about mobile development and blockchain;
+- 🤔 I love code reviews and feedbacks! Thank you so much if u take some time to review any codes here!
 
 <!--
 **LuizReina/luizreina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
